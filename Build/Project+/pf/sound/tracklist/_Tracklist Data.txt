@@ -220,7 +220,83 @@ Bob-Omb_Battlefield.tlst - 1 track
 	Frequency: 40
 
 ################
-Bowsers_Castle.tlst - 2 tracks
+Bowsers_Castle.tlst - 3 tracks
+
+	Lava Scarves and Red Hot Blargss
+	Yoshi/Lava Scarves and Red Hot Blargss (Yoshi's Woolly World).brstm
+	Volume: 80
+	Frequency: 80
+
+	The 13th Struggle (Kingdom Hearts II)
+	Kingdom Hearts/The 13th Struggle (Kingdom Hearts II).brstm
+	Volume: 85
+	Frequency: 80
+
+	The Ultimate Show (Super Paper Mario)
+	Mario/The Ultimate Show (Super Paper Mario).brstm
+	Volume: 80
+	Frequency: 80
+
+################
+Bowsers_Castle_DPAD.tlst - 14 tracks
+
+	Castle (Super Mario World)
+	Super Mario/Castle [SMW].brstm
+	Volume: 65
+	Frequency: 40
+
+	The Evil King Bowser
+	Super Mario/The Evil King Bowser (FS).brstm
+	Volume: 60
+	Frequency: 40
+	Song delay: -1
+
+	Koopa's Road
+	Super Mario/Koopa Road.brstm
+	Volume: 65
+	Frequency: 40
+	Song delay: -1
+
+	Ultimate Koopa
+	Super Mario/Ultimate Koopa.brstm
+	Volume: 70
+	Frequency: 40
+
+	Bowser's Theme (Super Mario 64)
+	Super Mario/Bowser's Theme.brstm
+	Volume: 80
+	Frequency: 40
+	Song delay: 150
+
+	Bowser's Rage
+	Mario/Bowser's Rage.brstm
+	Volume: 65
+	Frequency: 40
+
+	Bowser's Castle (Mario Kart 8)
+	Mario Kart/Bowser's Castle [MK8].brstm
+	Volume: 60
+	Frequency: 40
+
+	Bowser's Highway Showdown
+	Super Mario/Bowser's Highway Showdown.brstm
+	Volume: 60
+	Frequency: 40
+
+	Bowser's Castle (Mario Kart: Double Dash!!)
+	Mario Kart/Bowser's Castle [MKDD].brstm
+	Volume: 80
+	Frequency: 40
+
+	In the Final
+	Mario/In The Final.brstm
+	Volume: 70
+	Frequency: 40
+
+	Final Bowser (New Super Mario Bros. Wii)
+	Mario/Final Bowser (M&S 2016).brstm
+	Volume: 65
+	Frequency: 40
 
 	Castle / Fortress Boss (SMW / SMB3)
 	A06.brstm (0x2719)
@@ -229,6 +305,11 @@ Bowsers_Castle.tlst - 2 tracks
 	Airship Theme (Super Mario Bros. 3)
 	A05.brstm (0x2718)
 	Frequency: 10
+
+	Battle with Bowser (Super Mario All-Stars)
+	Super Mario/Battle with Bowser (SMAS).brstm
+	Volume: 74
+	Frequency: 40
 
 ################
 Break_The_Targets.tlst - 1 track
@@ -529,16 +610,256 @@ Crateria.tlst - 4 tracks
 	Frequency: 40
 
 ################
-Credits.tlst - 2 tracks
+Credits.tlst - 50 tracks
 
-	<null>
+	Mario
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Donkey Kong
+	B05.brstm
+	Volume: 80
+	Frequency: 40
+
+	Link
+	C07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Samus
+	D03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Yoshi
+	E01.brstm
+	Volume: 80
+	Frequency: 40
+
+	Kirby
+	F04.brstm
+	Volume: 80
+	Frequency: 40
+
+	Fox
+	H01.brstm
+	Volume: 80
+	Frequency: 40
+
+	Pikachu
+	H02.brstm
+	Volume: 80
+	Frequency: 40
+
+	Luigi
+	A09.brstm
+	Volume: 80
+	Frequency: 40
+
+	Captain Falcon
+	I03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ness
+	K01.brstm
+	Volume: 80
+	Frequency: 40
+
+	Bowser
+	W31.brstm
+	Volume: 80
+	Frequency: 40
+
+	Peach
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Zelda
+	C09.brstm
+	Volume: 80
+	Frequency: 40
+
+	Sheik
+	C09.brstm
+	Volume: 80
+	Frequency: 40
+
+	Popo
+	Q07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Nana
+	Q07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Marth
+	W17.brstm
+	Volume: 80
+	Frequency: 40
+
+	Mr. Game and Watch
+	R04.brstm
+	Volume: 80
+	Frequency: 40
+
+	Falco
+	G03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ganondorf
+	C13.brstm
+	Volume: 80
+	Frequency: 40
+
+	Wario
+	M02.brstm
+	Volume: 80
+	Frequency: 40
+
+	Meta Knight
+	F06.brstm
+	Volume: 80
+	Frequency: 40
+
+	Pit
+	P02.brstm
+	Volume: 80
+	Frequency: 40
+
+	Zero Suit Samus
+	D03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Olimar
+	L07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Lucas
+	K08.brstm
+	Volume: 80
+	Frequency: 40
+
+	Diddy Kong
+	B05.brstm
+	Volume: 80
+	Frequency: 40
+
+	Pokemon Trainer
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Charizard
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Squirtle
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ivysaur
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Dedede
+	F02.brstm
+	Volume: 80
+	Frequency: 40
+
+	Lucario
+	H09.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ike
+	J12.brstm
+	Volume: 80
+	Frequency: 40
+
+	R.O.B.
+	Q02.brstm
+	Volume: 80
+	Frequency: 40
+
+	0x24
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Jigglypuff
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Mewtwo
 	Pokemon/Battle! Mewtwo [Stadium].brstm
 	Volume: 80
 	Frequency: 40
 
-	<null>
+	Roy
+	J07.brstm
+	Volume: 80
+	Frequency: 40
+
+	0x28
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Toon Link
+	C12.brstm
+	Volume: 80
+	Frequency: 40
+
+	0x2A
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	0x2B
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Wolf
+	G05.brstm
+	Volume: 80
+	Frequency: 40
+
+	Knuckles
 	Sonic/Theme of Knuckles.brstm
-	Volume: 75
+	Volume: 80
+	Frequency: 40
+
+	Snake
+	S11.brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic
+	U13.brstm
+	Volume: 80
+	Frequency: 40
+
+	Giga Bowser
+	W31.brstm
+	Volume: 80
+	Frequency: 40
+
+	Wario-Man
+	M02.brstm
+	Volume: 80
 	Frequency: 40
 
 ################
@@ -557,6 +878,60 @@ Dead_Line.tlst - 3 tracks
 	U13.brstm (0x27FE)
 	Frequency: 40
 	Song delay: -1
+
+################
+Dead_Line_DPAD.tlst - 10 tracks
+
+	What U Need
+	Sonic/What U Need.brstm
+	Volume: 60
+	Frequency: 40
+
+	Vela-Nova
+	Sonic/Vela-Nova.brstm
+	Volume: 60
+	Frequency: 40
+
+	Right There, Ride On
+	U11.brstm (0x27FC)
+	Frequency: 40
+	Song delay: -1
+
+	Haunted Ship
+	Sonic/Haunted Ship.brstm
+	Volume: 65
+	Frequency: 40
+
+	Open Your Heart
+	U08.brstm (0x27F9)
+	Frequency: 40
+
+	Seven Rings in Hand
+	U13.brstm (0x27FE)
+	Frequency: 40
+	Song delay: -1
+
+	Vs. Knuckles (Sonic Advance 2)
+	Sonic/Vs. Knuckles.brstm
+	Volume: 85
+	[PINCH MODE TRACK: 3600 frames]
+	Sonic/Vs. Knuckles_b.brstm
+	Frequency: 40
+
+	Ocean Base
+	Sonic/Ocean Base.brstm
+	Volume: 95
+	Frequency: 40
+
+	Go Straight (Streets of Rage 2)
+	SEGA/Go Straight (PXZ2).brstm
+	Volume: 115
+	Frequency: 40
+
+	Fly Like a Butterfly (Jet Set Radio Future)
+	SEGA/Fly Like a Butterfly.brstm
+	Volume: 46
+	Frequency: 40
 
 ################
 Death_Race.tlst - 5 tracks
@@ -614,8 +989,8 @@ Delfino_Secret.tlst - 5 tracks
 	Volume: 127
 	Frequency: 80
 
-	Though Guy Alert! (Mario & Luigi BIS)
-	Mario/Though Guy Alert! (Mario & Luigi Bowser's Inside Story).brstm
+	Tough Guy Alert! (Mario & Luigi BIS)
+	Mario/Tough Guy Alert! (Mario & Luigi Bowser's Inside Story).brstm
 	Volume: 85
 	Frequency: 80
 
@@ -841,7 +1216,7 @@ Dream_Land_64.tlst - 1 track
 	Frequency: 40
 
 ################
-Dream_Land_DPAD.tlst - 15 tracks
+Dream_Land_DPAD.tlst - 14 tracks
 
 	Gourmet Race
 	Kirby/Gourmet Race (SSB).brstm
@@ -902,11 +1277,6 @@ Dream_Land_DPAD.tlst - 15 tracks
 	Meadow Breeze
 	Kirby/Meadow Breeze.brstm
 	Volume: 80
-	Frequency: 40
-
-	Float Islands
-	Kirby/Float Islands.brstm
-	Volume: 76
 	Frequency: 40
 
 	Meta Knight's Revenge
@@ -1109,7 +1479,7 @@ Fountain_Of_Dreams.tlst - 5 tracks
 	Frequency: 80
 
 ################
-Fountain_Of_Dreams_DPAD.tlst - 11 tracks
+Fountain_Of_Dreams_DPAD.tlst - 12 tracks
 
 	Gourmet Race (Melee)
 	W06.brstm (0x2804)
@@ -1158,6 +1528,11 @@ Fountain_Of_Dreams_DPAD.tlst - 11 tracks
 	Candy Constellation
 	Kirby/Candy Constellation.brstm
 	Volume: 80
+	Frequency: 40
+
+	City Trial
+	Kirby/City Trial.brstm
+	Volume: 74
 	Frequency: 40
 
 	Victory Road
@@ -1226,6 +1601,49 @@ Frigate_Orpheon_Brawl.tlst - 6 tracks
 
 	Vs. Meta Ridley
 	D09.brstm (0x274E)
+	Frequency: 40
+
+	Hunters
+	D10.brstm (0x274F)
+	Frequency: 40
+
+################
+Frigate_Orpheon_DPAD.tlst - 9 tracks
+
+	Vs. Ridley
+	D04.brstm (0x2749)
+	Frequency: 40
+
+	Data Selection Screen
+	Y11.brstm (0x2829)
+	Frequency: 40
+
+	Vs. Parasite Queen
+	D08.brstm (0x274D)
+	Frequency: 40
+	Song delay: -1
+
+	Vs. Meta Ridley
+	D09.brstm (0x274E)
+	Frequency: 40
+
+	Sector 1
+	D06.brstm (0x274B)
+	Frequency: 40
+
+	Metroid Prime Essence
+	Metroid/Metroid Prime Essence.brstm
+	Volume: 60
+	Frequency: 40
+
+	Mother Brain
+	Metroid/Mother Brain.brstm
+	Volume: 80
+	Frequency: 40
+
+	Vs. Dark Samus (Metroid Prime 2: Echoes)
+	Metroid/Vs. Dark Samus [MP2].brstm
+	Volume: 80
 	Frequency: 40
 
 	Hunters
@@ -1635,6 +2053,43 @@ Luigis_Mansion.tlst - 2 tracks
 
 	Airship Theme (Super Mario Bros. 3)
 	A05.brstm (0x2718)
+	Frequency: 40
+
+################
+Luigis_Mansion_DPAD.tlst - 7 tracks
+
+	Luigi's Mansion Theme
+	A09.brstm (0x271C)
+	Frequency: 40
+	Song delay: 190
+
+	Airship Theme (Super Mario Bros. 3)
+	A05.brstm (0x2718)
+	Frequency: 40
+
+	Luigi's Mansion (Mario Kart DS)
+	Mario Kart/Luigi's Mansion.brstm
+	Volume: 90
+	Frequency: 40
+
+	Mr. L, Green Thunder!
+	Mario/Mr. L, Green Thunder!.brstm
+	Volume: 35
+	Frequency: 40
+
+	Horror Land
+	Mario/Horror Land.brstm
+	Volume: 80
+	Frequency: 40
+
+	Boss (New Super Mario Bros. Wii)
+	Mario/Boss (M&S 2016).brstm
+	Volume: 60
+	Frequency: 40
+
+	Bowser's Castle (Mario Kart Double Dash!!)
+	Mario Kart/Bowser's Castle [MKDD].brstm
+	Volume: 80
 	Frequency: 40
 
 ################
@@ -3265,6 +3720,43 @@ Temple_of_Time.tlst - 8 tracks
 	Frequency: 10
 
 ################
+Temple_of_Time_DPAD.tlst - 8 tracks
+
+	Ganondorf Battle (Twilight Princess)
+	Zelda/Ganondorf Battle.brstm
+	Volume: 105
+	Frequency: 40
+
+	Main Theme (Twilight Princess ver.)
+	C17.brstm (0x2743)
+	Frequency: 40
+
+	The Hidden Village
+	C18.brstm (0x2744)
+	Frequency: 40
+
+	The Dark World
+	C04.brstm (0x2736)
+	Frequency: 40
+
+	Black Mist
+	C05.brstm (0x2737)
+	Frequency: 40
+
+	Ballad of the Goddess
+	Zelda/Ballad of the Goddess.brstm
+	Volume: 95
+	Frequency: 40
+
+	Temple
+	W24.brstm (0x2816)
+	Frequency: 40
+
+	Great Temple / Temple
+	C03.brstm (0x2735)
+	Frequency: 40
+
+################
 Temple_of_Time_OoT.tlst - 6 tracks
 
 	Hyrule Field
@@ -3540,6 +4032,27 @@ Whirl_Islands.tlst - 1 track
 	Battle! Mewtwo [Stadium]
 	Pokemon/Battle! Mewtwo [Stadium].brstm
 	Volume: 80
+	Frequency: 40
+
+################
+World_2-3.tlst - 4 tracks
+
+	Overworld (Super Mario Bros. 3)
+	W15.brstm (0x280D)
+	Frequency: 40
+
+	Sarasaland Medley
+	Super Mario/Muda - Birabuto.brstm
+	Volume: 85
+	Frequency: 40
+
+	Kalimari Desert
+	Mario Kart/Kalimari Desert.brstm
+	Volume: 80
+	Frequency: 40
+
+	Gritzy Desert
+	A10.brstm (0x271D)
 	Frequency: 40
 
 ################
