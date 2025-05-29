@@ -16,7 +16,7 @@ LINK
 SAMUS
 
 YOSHI
-35 - Whoratio Yoshi by Z-Stick, ilikepizza107
+45 - Whoratio Yoshi by Z-Stick, ilikepizza107
 
 KIRBY
 
@@ -63,7 +63,7 @@ LUCAS
 
 DIDDY KONG
 25 - amaramist Diddy Kong by amaramist
-30 - Sneez Diddy Kong by 
+30 - Sneez Diddy Kong by Theytah, with credit to Ryztiq
 
 MEWTWO
 
